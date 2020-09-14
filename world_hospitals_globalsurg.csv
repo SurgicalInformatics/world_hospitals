@@ -101,7 +101,7 @@ hospital_id,country,city,hospital_name,hospital_shortcode
 420004,Colombia,Medellin,IPS Universitaria Clinica Leon XIII,co_medel_leon
 420005,Colombia,Medellin,Pablo Tobon Uribe Hospital,co_medel_pablo
 420006,Colombia,Bogota,Instituto Nacional de Cancerologia,co_bog_insnacan
-420007,Colombia,Bogota,Hospital Universitario Mayor,co_bog_unimayo
+420007,Colombia,Bogota,Hospital Universitario Mayor Méderi,co_bog_unimayo
 420008,Colombia,Bogota,Fundacion Cardioinfantil-IC,co_bog_funcardi
 440001,"Congo, Dem. Rep.",Goma,HEAL Africa Hospital,cd_goma_healafr
 480001,Croatia,Sibenik,General Hospital Sibenik,hr_siben_gensib
@@ -129,7 +129,7 @@ hospital_id,country,city,hospital_name,hospital_shortcode
 580010,Egypt,Cairo,Alazher University Hospital,eg_cairo_alazhu
 580011,Egypt,Cairo,Bab El-Shareia Hospital,eg_cairo_babels
 580012,Egypt,Cairo,El Mataria Educational Hospital,eg_cairo_elmate
-580013,Egypt,Cairo,Kasr Alainy Hospital,eg_cairo_kasral
+580013,Egypt,Cairo,"Kasr Alainy Hospital, Faculty of Medicine, Cairo University",eg_cairo_kasral
 580014,Egypt,Damietta,New Damietta University Hospital,eg_damie_newdam
 580015,Egypt,El Gharbia,El Mahalla General Hospital,eg_elgha_elmaha
 580016,Egypt,El Shohadaa,El Shohadaa Central Hospital,eg_elsho_elshoh
@@ -272,6 +272,12 @@ hospital_id,country,city,hospital_name,hospital_shortcode
 880036,India,Thalassery,Malabar Cancer Centre,in_thala_malcan
 880037,India,Bangalore,Jayanagar Manipal Hospital,in_banga_jayman
 880038,India,Madurai,Government Rajaji Hospital,in_madu_govraj
+880039,India,Mumbai,Tata Memorial Centre,in_mumb_tatamem
+880040,India,Shillong,North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences (NEIGRIHMS),in_shil_neindir
+880041,India,Kolkata,Tata Medical Centre,in_kolk_tatamed
+880042,India,Rishikesh,All India Institute of Medical Sciences (Aiims),in_rishi_allind
+880043,India,Vellore,Christian Medical College (CMC),in_vello_christ
+880044,India,Padhar,Padhar Hospital,in_padhar_hosp
 890001,Indonesia,Jakarta,Atma jaya Hospital,id_jak_atmaj
 890002,Indonesia,Jakarta,Dr Cipto Mangunkusumo National General Hospital,id_jak_ciptoman
 890003,Indonesia,Jember Regency,RSD Dr Soebandi,id_jembe_soeban
@@ -305,7 +311,7 @@ hospital_id,country,city,hospital_name,hospital_shortcode
 950004,Italy,Bologna,Maggiore Hospital,it_bolog_maggi
 950005,Italy,Brescia,"ASST Spedali Civili, Ospedale di Brescia",it_bres_asstciv
 950006,Italy,Catanzaro,Mater Domini University Hospital,it_catan_matdom
-950007,Italy,Cuneo,Santa Croce Hospital,it_cuneo_sancro
+950007,Italy,Cuneo,Santa Croce and Carle Hospital,it_cuneo_sancro
 950008,Italy,Ferrara,Azienda Ospedaliero-Universitaria Di Ferrara,it_ferra_azieos
 950009,Italy,Firenze,Azienda Ospedaliera Universitaria Careggi,it_firen_azicar
 950010,Italy,Gallarate,San Antonio Abate Hospital,it_galla_sanan
@@ -399,7 +405,7 @@ hospital_id,country,city,hospital_name,hospital_shortcode
 1180001,Malawi,Blantyre,Queen Elizabeth Central Hospital,mw_blant_eliza
 1180002,Malawi,Lilongwe,Kamuzu Central Hospital,mw_lilon_kamuz
 1180003,Malawi,Mzuzu,Mzuzu Central Hospital,mw_mzu_centhos
-1190001,Malaysia,"Batu Pahat, Johor",Hospital Sultanah Aminah,my_batu_sultami
+1190001,Malaysia,"Batu Pahat, Johor",Hospital Sultanah Nora Ismail,my_batu_sulnora
 1190002,Malaysia,"Kajang, Selangor",Hospital Kajang,my_kajan_kajhos
 1190003,Malaysia,"Keningau, Sabah",Hospital Keningau,my_kenin_kenhos
 1190004,Malaysia,Kuala Lumpur,University Kebangsaan Malaysia Medical Centre,my_kuala_keban
@@ -688,11 +694,12 @@ hospital_id,country,city,hospital_name,hospital_shortcode
 1890008,Sweden,Stockholm,Ersta Hospital,se_stock_erstah
 1890009,Sweden,Stockholm,Karolinska University Hospital,se_stock_karolu
 1890010,Sweden,Sundsvall,Sundsvall Hospital,se_sunds_sundsv
-1890011,Sweden,Umea,Umea University Hospital,se_umea_unihosp
+1890011,Sweden,Skelleftea,Umea University Hospital,se_skel_unihosp
 1890012,Sweden,Vasteras,Västmanlands Hospital Västerås,se_vaste_vastma
 1890013,Sweden,Vaxjo,Vaxjo Central Hospital,se_vaxjo_vaxcen
 1890014,Sweden,Visby,Visby Hospital,se_visby_vishos
 1890015,Sweden,Stockholm,South General Hospital,se_stock_sougen
+1890016,Sweden,Umea,Umea University Hospital,se_umea_unihosp
 1900001,Switzerland,Baden,Kantonsspital Baden,ch_baden_kanton
 1900002,Switzerland,Davos,Davos Hospital,ch_davos_davhos
 1900003,Switzerland,Muri,Kreisspital Fuer Das Freiamt Muri Ag,ch_muri_kreifue
